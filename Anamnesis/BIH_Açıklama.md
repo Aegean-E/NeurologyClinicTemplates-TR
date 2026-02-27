@@ -16,7 +16,7 @@ Bunlar, IIH'nin en endişe verici semptomlarıdır ve artmış KİB'nin optik si
 Şiddetli baş ağrısına sıkça eşlik eden ve KİB artışıyla ilişkili olabilen non-spesifik semptomlardır.
 
 **BULANTI / KUSMA:**
-Artmış kafa içi basıncının klasik belirtilerindendir. Özellikle fışkırır tarzda ve baş ağrısının şiddetlendiği dönemlerde görülür.
+Artmış kafa içi basıncının klasik belirtilerindendir. Özellikle baş ağrısının şiddetlendiği dönemlerde bulantı ve kusma görülebilir, ancak bu kusma her zaman "fışkırır tarzda" (projectile) olmayabilir.
 
 **TİNNİTUS (NABIZLA SENKRONİZE Mİ?):**
 IIH için çok karakteristik bir bulgudur. Hastalar genellikle kulaklarında kendi kalp atışlarını veya bir uğultu duyduklarını ("pulsatil tinnitus") ifade ederler. Bu durumun, artmış KİB nedeniyle dural venöz sinüslerdeki kan akımının türbülanslı hale gelmesinden kaynaklandığı düşünülmektedir.
@@ -32,7 +32,7 @@ Obezite, IIH için en önemli ve en yaygın risk faktörüdür. Kilo alımı sem
 Bazı ilaçlar (Tetrasiklin grubu antibiyotikler, A vitamini türevleri, lityum, bazı steroid tedavileri) ikincil intrakraniyal hipertansiyona neden olabilir. Bu ilaçların sorgulanması, durumun idiyopatik (nedeni bilinmeyen) olup olmadığını ayırt etmede önemlidir.
 
 **NÖBET ÖYKÜSÜ:**
-IIH'de tipik olmasa da, artmış KİB nöbet riskini artırabilir. Nöbet varlığı, altta yatan başka bir beyin patolojisi (örn. venöz sinüs trombozu) açısından şüphe uyandırmalıdır.
+IIH'de nöbet nadirdir. Nöbet varlığı, venöz sinüs trombozu gibi altta yatan başka bir beyin patolojisi açısından şüphe uyandırmalı ve alternatif tanı olasılığını kuvvetle düşündürmelidir. Lakin artmış kafa içi basınca bağlı olarak nöbet riskinin artabileceği de unutulmamalıdır.
 
 **GEBELİK / OKS / DÜŞÜK ÖYKÜSÜ:**
 Hormonal durumlar IIH'yi etkileyebilir. Ayrıca bu durumlar, IIH'yi taklit edebilen ve mutlaka dışlanması gereken dural venöz sinüs trombozu için de risk faktörleridir.
@@ -42,7 +42,7 @@ Hormonal durumlar IIH'yi etkileyebilir. Ayrıca bu durumlar, IIH'yi taklit edebi
 ### OBJEKTİF BULGULAR VE MUAYENE
 
 **GÜNCEL PAPİL ÖDEM:**
-IIH'nin en önemli objektif bulgusudur. Göz dibi muayenesinde optik sinir başının KİB artışına bağlı olarak ödemli ve şişkin görünmesidir. Varlığı tanıyı destekler, derecesi ise hastalığın aktivitesini ve tedaviye yanıtı izlemede kullanılır.
+IIH'nin en önemli objektif bulgusudur. Göz dibi muayenesinde optik sinir başının KİB artışına bağlı olarak ödemli ve şişkin görünmesidir. Varlığı tanıyı destekler, derecesi ise hastalığın aktivitesini ve tedaviye yanıtı izlemede kullanılır. Papilödem yokluğu IIH’yi tamamen dışlamaz (IIHWOP – Idiopathic Intracranial Hypertension Without Papilledema), ancak tanıyı daha karmaşık hale getirir.
 
 **GÜNCEL GÖRME ALANI MUAYENESİ:**
 Papilödemin neden olduğu görme siniri hasarını tespit etmek ve takip etmek için hayati önem taşır. Erken dönemde kör noktada genişleme, ileri dönemlerde ise kalıcı görme alanı kayıpları gelişebilir. Görme alanındaki kötüleşme, daha agresif tedavi kararları (örn. cerrahi) için bir endikasyondur.
@@ -62,6 +62,20 @@ IIH'yi taklit eden ve acil tedavi gerektiren dural venöz sinüs trombozunu (bey
 
 **SERVİKAL MRG:**
 Rutin olarak istenmez. Ancak, KİB artışına neden olabilecek Chiari malformasyonu gibi servikal bölge patolojilerinden şüpheleniliyorsa plana eklenebilir.
+
+---
+
+### TANI KRİTERLERİ (MODIFIED DANDY CRITERIA)
+
+IIH tanısı, genellikle aşağıdaki "Modified Dandy Criteria"nın karşılanmasına dayanır. Bu kriterler, dokümanda sorgulanan semptom ve bulguların tanısal bir çerçeveye oturtulmasını sağlar:
+
+- **Papilödem** varlığı.
+- **Normal nörolojik muayene** (6. kranial sinir felci hariç).
+- **Normal nörogörüntüleme** (KİB artışına neden olabilecek yapısal bir neden veya venöz tromboz olmamalı).
+- **Yüksek BOS açılış basıncı** (≥25 cmH2O) ve **normal BOS içeriği**.
+- Semptomların ve bulguların başka bir nedene bağlanamaması.
+
+Bu kriterlerin bilinmesi, hastayı değerlendirirken hangi bulguların tanıyı desteklediğini anlamayı kolaylaştırır.
 
 ---
 
