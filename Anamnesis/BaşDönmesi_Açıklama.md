@@ -11,9 +11,10 @@ Bu ilk sorular, hastanın yaşadığı hissin gerçek bir "vertigo" (dönme hiss
 
 **ŞİKAYET SÜRESİ (SANİYE / DAKİKA / SAAT / GÜN) :**
 Atak süresi, tanı için en önemli ipuçlarından birini verir:
-*   **Saniyeler:** Genellikle Benign Paroksismal Pozisyonel Vertigo (BPPV - iç kulak kristalleri).
-*   **Dakikalar-Saatler:** Meniere Hastalığı veya Vestibüler Migren.
-*   **Saatler-Günler:** Vestibüler Nörit, Labirentit veya santral nedenler (örn. inme).
+*   **Saniyeler:** Genellikle Benign Paroksismal Pozisyonel Vertigo (BPPV).
+*   **Dakikalar:** Vertebrobaziler sistem TIA'sı (Geçici İskemik Atak) veya vestibüler paroksizmi gibi durumları düşündürür.
+*   **20 Dakika - Saatler:** Meniere Hastalığı (klasik olarak 20 dk - 12 saat) ve Vestibüler Migren (5 dk - 72 saat arası değişebilir) için tipiktir.
+*   **Günler:** Genellikle Vestibüler Nörit, Labirentit veya santral nedenleri (örn. beyin sapı/beyincik inmesi) akla getirir.
 
 **ANİ BAŞLANGIÇ / SÜREKLİ / ATAKLAR HALİNDE / ATAK SIKLIĞI :**
 Bu sorular, şikayetin zaman içindeki seyrini anlamaya yarar. Aniden başlayan ve saatlerce/günlerce süren baş dönmesi "Akut Vestibüler Sendrom" tablosunu oluşturur ve inme gibi santral nedenlerin dışlanmasını gerektirir. Ataklar halinde gelmesi ise BPPV, Meniere veya Vestibüler Migren gibi durumları düşündürür.
@@ -25,8 +26,11 @@ Bu sorular, şikayetin zaman içindeki seyrini anlamaya yarar. Aniden başlayan 
 **POZİSYONLA ARTIŞ (BAŞ DÖNDÜRME, YATAKTA DÖNME, EĞİLME) :**
 Başın belirli hareketleriyle tetiklenen kısa süreli baş dönmesi, BPPV için çok tipik bir bulgudur.
 
+**ORTOSTATİK SEMPTOM (AYAĞA KALKINCA ARTMA) :**
+Ayağa kalktıktan sonraki ilk saniyeler/dakikalar içinde ortaya çıkan baş dönmesi, göz kararması veya bayılacak gibi olma hissi, kan basıncının pozisyonla birlikte düşmesiyle karakterize "ortostatik hipotansiyon" için tipiktir. Bu durum, presenkopun en sık nedenlerinden biridir.
+
 **HAREKETSİZLİKLE AZALMA :**
-Periferik (iç kulak kaynaklı) vertigoların çoğunda hastalar hareketsiz kalarak semptomlarını hafifletme eğilimindedir.
+Pozisyonla tetiklenen ve istirahatte tamamen düzelen vertigo BPPV için tipiktir. Buna karşın, Vestibüler Nörit gibi akut vestibüler sendrom tablolarında semptomlar hasta hareketsizken de devam eder, ancak baş hareketleriyle şiddetlenir.
 
 **GÖZLERİ KAPATINCA ARTIŞ :**
 Dengeyi sağlamada görsel ipuçlarının ne kadar önemli olduğunu gösterir. Gözler kapalıyken dengesizliğin belirgin artması, propriyoseptif (derin duyu) veya vestibüler bir soruna işaret edebilir (Romberg Testi'nin temelidir).
@@ -43,7 +47,7 @@ Bu belirtiler, vestibüler sistemin otonom sinir sistemi ile olan yakın bağlan
 ### OTOLOJİK (KULAK) SEMPTOMLARI
 
 **İŞİTME KAYBI / KULAK ÇINLAMASI / KULAKTA DOLGUNLUK HİSSİ :**
-Bu üçlü, özellikle ataklar halinde geldiğinde Meniere Hastalığı için klasik bir triaddır. Tek taraflı ve ilerleyici işitme kaybı ile çınlama ise Vestibüler Schwannoma (akustik nörinom) gibi bir tümörü akla getirebilir.
+Bu üçlü, özellikle ataklar halinde geldiğinde Meniere Hastalığı için klasik bir triaddır. Buna karşın, genellikle yavaş ilerleyen, tek taraflı sensörinöral işitme kaybı ve çınlama ile birlikte vertigodan ziyade dengesizlik hissi, Vestibüler Schwannoma (akustik nörinom) gibi bir tümörü akla getirmelidir.
 
 ---
 
@@ -73,6 +77,9 @@ Yakın zamanda geçirilmiş bir viral enfeksiyon, vestibüler sinirin iltihaplan
 **TRAVMA / BAŞ ÇARPMASI :**
 Kafa travmaları, BPPV'nin en sık nedenlerindendir veya daha nadiren perilimfatik fistül gibi durumlara yol açabilir.
 
+**SENKOP ÖYKÜSÜ / KARDİYAK HASTALIK ÖYKÜSÜ / RİTİM BOZUKLUĞU ÖYKÜSÜ :**
+Hastanın daha önce bayılma (senkop) atağı geçirmiş olması veya bilinen bir kalp hastalığı/ritim bozukluğu bulunması, baş dönmesinin kardiyak bir nedenden (örn. aritmi, yapısal kalp hastalığı) kaynaklanma olasılığını artırır. Bu durumlar beyne giden kan akımında ani azalmalara yol açarak presenkop veya senkopa neden olabilir.
+
 ---
 
 ### FİZİK MUAYENE
@@ -84,13 +91,13 @@ Santral nedenleri dışlamak için fokal nörolojik defisit (güçsüzlük, duyu
 BPPV tanısını koymak için yapılan provokatif bir testtir. Test sırasında ortaya çıkan tipik nistagmus (göz titremesi) tanı koydurucudur.
 
 **HEAD IMPULSE TEST (BAŞ İTME TESTİ) :**
-Akut vestibüler sendromda santral ve periferik nedenleri ayırt etmeye yarayan HINTS testinin bir parçasıdır. Normal bir test, santral bir patolojiden şüphelendirir.
+Akut vestibüler sendromda santral ve periferik nedenleri ayırt etmeye yarayan HINTS testinin bir parçasıdır. Normal (patolojik olmayan) bir test, santral bir patolojiden şüphelendirir. **Önemli Not:** HINTS protokolü, yalnızca aktif ve sürekli vertigosu olan "Akut Vestibüler Sendrom" tablosundaki hastalarda anlamlıdır ve deneyimli klinisyenlerce uygulanmalıdır. Aralıklı veya pozisyonel vertigoda kullanılmaz.
 
 **NİSTAGMUS (İSTİRAHATTE / BAKIŞLA) :**
 Nistagmusun varlığı, yönü (yatay, dikey, dönen), ve bakışla karakter değiştirip değiştirmediği, santral-periferik ayrımında en önemli muayene bulgularındandır. Örneğin, saf dikey bir nistagmus neredeyse her zaman santral bir soruna işaret eder.
 
 **ROMBERG TESTİ :**
-Hastanın gözleri açık ve kapalıyken ayakta durma dengesini değerlendirir. Denge sisteminin vestibüler ve propriyoseptif bileşenleri hakkında bilgi verir.
+Hastanın gözleri açık ve kapalıyken ayakta durma dengesini değerlendirir. Denge sisteminin vestibüler ve propriyoseptif bileşenleri hakkında bilgi verir. Göz açıkken de belirgin instabilite olması serebellar patolojiyi düşündürür.
 
 ---
 
