@@ -2,6 +2,34 @@
 
 This project provides standardized anamnesis (patient history) templates for common complaints in neurology practice. Its purpose is to make the patient assessment and documentation processes more efficient, complete, and systematic for clinicians (neurologists, resident physicians, medical students).
 
+## 30-Second Cold-Start Quick Reference
+
+- **Runtime Prerequisites**: None; 0 runtime dependencies, any text editor or Markdown viewer is enough (Python 3 is not required).
+- **Canonical Regression Shield Gate**:
+  ```bash
+  python aikit.py check NeurologyClinicTemplates-TR
+  ```
+
+### AIKit Commands (run from the AIKit workspace root)
+| Role | Command |
+|---|---|
+| Status, task and gates | `python aikit.py status NeurologyClinicTemplates-TR` |
+| Delivery check (clean tree + map) | `python aikit.py check NeurologyClinicTemplates-TR` |
+| Repair memory and map, then check | `python aikit.py fix NeurologyClinicTemplates-TR` |
+| Resume an interrupted task | `python aikit.py resume NeurologyClinicTemplates-TR` |
+
+## What's Inside
+
+```text
+NeurologyClinicTemplates-TR/
+├── README.md
+├── .gitignore               <- AIKit transient state exclusions
+├── .aikit/                  <- project memory: project, guidelines, decisions, ledger
+├── tests/                   <- regression tests for template pairing and references
+├── Anamnesis/               <- anamnesis .txt templates and _Açıklama.md explanations
+└── ConsultationNotes/       <- consultation note templates
+```
+
 ## Project Structure
 
 For each neurological complaint, there are two types of files:
