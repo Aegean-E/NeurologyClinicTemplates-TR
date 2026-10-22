@@ -1,11 +1,12 @@
 {
   "version": 1,
   "active_task": {
-    "task_id": "integrate-aikit",
+    "task_id": "expand-anamnesis-literature",
     "last_phase": "phase 4",
-    "active_phase": 4,
-    "status": "in_progress",
-    "updated_at": 1792695553.9431746
+    "active_phase": 5,
+    "status": "completed",
+    "updated_at": 1792698158.9641433,
+    "completed_at": 1792698159.1314938
   },
   "checkpoints": [
     {
@@ -52,6 +53,50 @@
       "status": "in_progress",
       "timestamp": 1792695553.9431746,
       "timestamp_str": "2026-10-22 21:59:13"
+    },
+    {
+      "task_id": "integrate-aikit",
+      "phase": "completed",
+      "phase_num": 5,
+      "description": "Task 'integrate-aikit' completed successfully.",
+      "status": "completed",
+      "timestamp": 1792695784.6032655,
+      "timestamp_str": "2026-10-22 22:03:04"
+    },
+    {
+      "task_id": "expand-anamnesis-literature",
+      "phase": "phase 2",
+      "phase_num": 2,
+      "description": "[1/3] Literature gap analysis: 7 of 11 Anamnesis templates lack explanation guides and omit guideline-based red-flag items",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1792696761.2948303,
+      "timestamp_str": "2026-10-22 22:19:21",
+      "impact_assessment": {
+        "why": "The user asked to continue expanding the Anamnesis library using the literature",
+        "benefits": "Evidence-based questions and explanations for epilepsy, tremor, RLS, myokymia, MS/optic neuritis, Parkinson disease and syncope",
+        "risks": "contract: template wording and clinical scope; dependency: none added; concurrency: none; state: README catalogue and docs",
+        "mitigation": "Use ILAE, MDS, IRLSSG, McDonald, ESC and AAN sources, preserve the existing Turkish template style, and run the project gates"
+      }
+    },
+    {
+      "task_id": "expand-anamnesis-literature",
+      "phase": "phase 4",
+      "phase_num": 4,
+      "description": "[3/3] Added guideline-based questions and 7 explanation guides; README catalogue updated; 5/5 tests and 4/4 gates pass; checklists: passed",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1792698158.9641433,
+      "timestamp_str": "2026-10-22 22:42:38"
+    },
+    {
+      "task_id": "expand-anamnesis-literature",
+      "phase": "completed",
+      "phase_num": 5,
+      "description": "Task 'expand-anamnesis-literature' completed successfully.",
+      "status": "completed",
+      "timestamp": 1792698159.1314952,
+      "timestamp_str": "2026-10-22 22:42:39"
     }
   ]
 }

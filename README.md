@@ -40,9 +40,16 @@ For each neurological complaint, there are two types of files:
 ### Available Templates
 
 *   **Headache:** `BaşAğrısı.txt` & `BaşAğrısı_Açıklama.md`
-*   **Dizziness:** `BaşDönmesi.txt` & `BaşDönmesi_Açıklama.md`
+*   **Dizziness / Vertigo:** `BaşDönmesi.txt` & `BaşDönmesi_Açıklama.md`
 *   **Idiopathic Intracranial Hypertension (IIH):** `BIH.txt` & `BIH_Açıklama.md`
 *   **Dementia / Forgetfulness:** `Demans.txt` & `Demans_Açıklama.md`
+*   **Epilepsy Follow-up:** `EpilepsiTakip.txt` & `EpilepsiTakip_Açıklama.md`
+*   **Essential Tremor:** `EsansiyelTremor.txt` & `EsansiyelTremor_Açıklama.md`
+*   **Restless Legs Syndrome:** `HBS.txt` & `HBS_Açıklama.md`
+*   **Eyelid Myokymia:** `Miyokimi.txt` & `Miyokimi_Açıklama.md`
+*   **Multiple Sclerosis / Optic Neuritis:** `MultiplSkleroz-OptikNörit-Ön-Tanı.txt` & `MultiplSkleroz-OptikNörit-Ön-Tanı_Açıklama.md`
+*   **Parkinson's Disease:** `ParkinsonHastalığı.txt` & `ParkinsonHastalığı_Açıklama.md`
+*   **Syncope / Seizure / Epilepsy Differential:** `Senkop-Nöbet-Epilepsi-Ön-Tanı.txt` & `Senkop-Nöbet-Epilepsi-Ön-Tanı_Açıklama.md`
 
 ## How to Use
 
@@ -54,7 +61,7 @@ For each neurological complaint, there are two types of files:
 *   **Standardization:** Ensures that critical questions are not missed for any patient.
 *   **Efficiency:** Speeds up the documentation process in a busy outpatient clinic setting.
 *   **Educational:** The explanation files describe the thought process from symptom to diagnosis step-by-step.
-*   **Current and Evidence-Based:** The templates include internationally accepted and current diagnostic tools and criteria such as SNOOP (headache), HINTS (dizziness), and Modified Dandy (IIH).
+*   **Current and Evidence-Based:** The templates include internationally accepted diagnostic tools and criteria such as SNOOP (headache), HINTS (dizziness), Modified Dandy (IIH), ILAE 2017 seizure classification, MDS tremor and Parkinson criteria, IRLSSG 2014 restless legs criteria, McDonald 2017 multiple sclerosis criteria and ESC 2018 syncope guidance. Each explanation file lists its key sources.
 *   **Turkish and Adapted for Local Practice:** Prepared entirely in Turkish, considering the needs of healthcare professionals in Turkey.
 
 ---

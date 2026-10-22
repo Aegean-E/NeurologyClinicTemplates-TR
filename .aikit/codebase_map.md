@@ -9,8 +9,8 @@
 - **Total Python Modules**: `1`
 - **Total Classes**: `1`
 - **Total Top-Level Functions**: `0`
-- **Total Class Methods**: `4`
-- **Total Source Lines**: `46`
+- **Total Class Methods**: `5`
+- **Total Source Lines**: `51`
 
 ---
 
@@ -19,13 +19,14 @@
 ### [`tests/test_templates.py`](tests/test_templates.py)
 > *Regression tests for the template library's content integrity.*
 
-**Size**: `46` lines (`1887` bytes)
+**Size**: `51` lines (`2151` bytes)
 
 **Classes:**
 - `class TemplateIntegrityTests` - *Guard the file pairing and references clinicians rely on.*
   - Method `.test_template_directories_exist()`
   - Method `.test_every_template_is_non_empty_utf8()`
   - Method `.test_every_explanation_has_a_template()`
+  - Method `.test_every_template_has_an_explanation()`
   - Method `.test_readme_references_existing_files()`
 
 ---
