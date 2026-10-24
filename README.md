@@ -1,5 +1,7 @@
 # Neurology Clinic Templates
 
+[![AIKit Integrated](https://img.shields.io/badge/AIKit-integrated-6f42c1)](https://github.com/Aegean-E/AIKit)
+
 This project provides standardized anamnesis (patient history) templates for common complaints in neurology practice. Its purpose is to make the patient assessment and documentation processes more efficient, complete, and systematic for clinicians (neurologists, resident physicians, medical students).
 
 ## 30-Second Cold-Start Quick Reference
