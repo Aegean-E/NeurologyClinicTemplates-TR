@@ -26,6 +26,8 @@ This project provides standardized anamnesis (patient history) templates for com
 NeurologyClinicTemplates-TR/
 ├── README.md
 ├── .gitignore               <- AIKit transient state exclusions
+├── COMMERCIAL.md
+├── LICENSE
 ├── .aikit/                  <- project memory: project, guidelines, decisions, ledger
 ├── tests/                   <- regression tests for template pairing and references
 ├── Anamnesis/               <- anamnesis .txt templates and _Açıklama.md explanations
