@@ -1,6 +1,6 @@
 # Neurology Clinic Templates
 
-[![AIKit Integrated](https://img.shields.io/badge/AIKit-integrated-6f42c1)](https://github.com/Aegean-E/AIKit)
+[![AIKit Integrated](https://img.shields.io/badge/AIKit-integrated-6f42c1)](https://github.com/AegeanWorks/AIKit)
 
 This project provides standardized anamnesis (patient history) templates for common complaints in neurology practice. Its purpose is to make the patient assessment and documentation processes more efficient, complete, and systematic for clinicians (neurologists, resident physicians, medical students).
 
@@ -28,6 +28,8 @@ NeurologyClinicTemplates-TR/
 ├── .gitignore               <- AIKit transient state exclusions
 ├── COMMERCIAL.md
 ├── LICENSE
+├── LICENSES/                 <- REUSE license texts
+├── REUSE.toml                <- Machine-readable SPDX metadata
 ├── .aikit/                  <- project memory: project, guidelines, decisions, ledger
 ├── tests/                   <- regression tests for template pairing and references
 ├── Anamnesis/               <- anamnesis .txt templates and _Açıklama.md explanations
@@ -87,6 +89,8 @@ All templates and explanations in this repository are for **educational and info
 
 We welcome your suggestions and contributions to improve this project. To suggest new templates, improve existing ones, or correct errors, please open an "Issue" or submit a "Pull Request".
 
-## License
+> **License history:** versions up to and including `mit-final` remain available under the MIT License.
 
-This project is licensed under the MIT License.
+## 📜 License
+
+Free for personal use under the Aegean License 1.1 (AL-1.1); see [LICENSE](LICENSE). Any commercial use needs the Aegean Commercial License 1.0 (ACL-1.0); see [COMMERCIAL.md](COMMERCIAL.md).

@@ -11,3 +11,9 @@ contract, a dependency, a data format or the architecture; IDs are consecutive a
 - **Decision**: <what was decided>
 - **Consequences**: <what follows, including what it costs>
 -->
+
+## Licensing migration (mit-final)
+
+- New versions use the Aegean License 1.1 (AL-1.1); versions up to and including `mit-final` remain under the MIT License.
+- Rights holder: AegeanWorks; commercial use under ACL-1.0.
+- Counsel review of the 1.1 texts remains pending.
