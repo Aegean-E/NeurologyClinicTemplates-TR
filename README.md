@@ -89,8 +89,6 @@ All templates and explanations in this repository are for **educational and info
 
 We welcome your suggestions and contributions to improve this project. To suggest new templates, improve existing ones, or correct errors, please open an "Issue" or submit a "Pull Request".
 
-> **License history:** versions up to and including `mit-final` remain available under the MIT License.
-
 ## 📜 License
 
 Free for personal use under the Aegean License 1.1 (AL-1.1); see [LICENSE](LICENSE). Any commercial use needs the Aegean Commercial License 1.0 (ACL-1.0); see [COMMERCIAL.md](COMMERCIAL.md).
