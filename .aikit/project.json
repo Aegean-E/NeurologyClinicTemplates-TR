@@ -4,5 +4,57 @@
   "test_command": "python -m unittest discover -s tests",
   "gates": {},
   "ui_required": false,
-  "created": "2026-10-22"
+  "created": "2026-10-22",
+  "has_ui": false,
+  "ui_kind": "library",
+  "ui_evidence": [],
+  "ui_checked_at": "2026-10-28",
+  "ui_source": "detected",
+  "topics": [
+    "aikit",
+    "anamnesis",
+    "clinical",
+    "documentation",
+    "healthcare",
+    "markdown",
+    "medical",
+    "neurology",
+    "templates",
+    "turkish",
+    "source-available",
+    "aegeanworks",
+    "clinical-tools",
+    "education",
+    "learning",
+    "software",
+    "clinical-documentation",
+    "medical-education",
+    "template-library",
+    "checklist"
+  ],
+  "topics_source": "ai:kilo:2026-10-27",
+  "topics_reviewed_at": "2026-10-28",
+  "topics_choice": [
+    "aegeanworks",
+    "software",
+    "education",
+    "learning",
+    "documentation",
+    "clinical-tools"
+  ],
+  "topics_choice_round2": [
+    "neurology",
+    "templates",
+    "markdown",
+    "clinical-documentation"
+  ],
+  "topics_choice_round3": [
+    "medical-education",
+    "clinical-tools",
+    "template-library"
+  ],
+  "topics_choice_round4": [
+    "turkish",
+    "checklist"
+  ]
 }
