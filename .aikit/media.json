@@ -14,46 +14,39 @@
   "layout": "editorial",
   "assets": {
     "logo": {
-      "path": "assets/logo.svg",
+      "path": "assets/logo.png",
       "status": "approved",
       "commit": "",
-      "generated_at": "2026-10-28T08:46:43",
+      "generated_at": "2026-10-28T11:47:20",
       "review": {
         "status": "approved",
         "reviewer": "subagent:vision-review",
         "method": "vision",
-        "notes": "NT open book, legible",
-        "score": 88,
-        "reviewed_at": "2026-10-28T08:58:20"
+        "notes": "NCT monogram is legible, balanced and unique; social hierarchy is readable and unclipped.",
+        "score": 92,
+        "reviewed_at": "2026-10-28T11:49:28"
       }
     },
     "social_preview": {
-      "path": "assets/social-preview.svg",
+      "path": "assets/social-preview.png",
       "status": "approved",
       "commit": "",
-      "generated_at": "2026-10-28T08:46:43",
+      "generated_at": "2026-10-28T11:47:20",
       "review": {
         "status": "approved",
         "reviewer": "subagent:vision-review",
         "method": "vision",
-        "notes": "Consistent template, legible",
-        "score": 88,
-        "reviewed_at": "2026-10-28T08:58:20"
+        "notes": "NCT monogram is legible, balanced and unique; social hierarchy is readable and unclipped.",
+        "score": 92,
+        "reviewed_at": "2026-10-28T11:49:28"
       }
     },
-    "social_preview_png": {
-      "path": "assets/social-preview.png",
-      "status": "approved",
+    "artwork": {
+      "path": "assets/artwork.jpg",
+      "status": "pending_review",
       "commit": "",
-      "generated_at": "2026-10-28T08:46:44",
-      "review": {
-        "status": "approved",
-        "reviewer": "subagent:vision-review",
-        "method": "structural",
-        "notes": "Rendered from the approved 1280x640 social SVG; exact dimensions verified.",
-        "score": null,
-        "reviewed_at": "2026-10-28T09:01:46"
-      }
+      "generated_at": "2026-10-28T11:47:20",
+      "review": null
     }
   },
   "screenshots": []

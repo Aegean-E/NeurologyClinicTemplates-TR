@@ -1,8 +1,8 @@
 # Neurology Clinic Templates
 
 <!-- aegean:media:start -->
-<p align="center"><img src="assets/logo.svg" alt="NeurologyClinicTemplates-TR logo" width="96" height="96"></p>
-<p align="center"><img src="assets/social-preview.svg" alt="NeurologyClinicTemplates-TR social preview" width="100%"></p>
+<p align="center"><img src="assets/logo.png" alt="NeurologyClinicTemplates-TR logo" width="96" height="96"></p>
+<p align="center"><img src="assets/social-preview.png" alt="NeurologyClinicTemplates-TR social preview" width="100%"></p>
 <!-- aegean:media:end -->
 
 [![AIKit Integrated](https://img.shields.io/badge/AIKit-integrated-6f42c1)](https://github.com/AegeanWorks/AIKit)
