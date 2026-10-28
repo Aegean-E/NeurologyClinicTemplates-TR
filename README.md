@@ -2,7 +2,6 @@
 
 <!-- aegean:media:start -->
 <p align="center"><img src="assets/social-preview.png" alt="NeurologyClinicTemplates-TR social preview" width="100%"></p>
-*The banner and logo are AI-generated brand assets. They are illustrative and may not literally depict every feature or the full project scope.*
 <!-- aegean:media:end -->
 
 [![AIKit Integrated](https://img.shields.io/badge/AIKit-integrated-6f42c1)](https://github.com/AegeanWorks/AIKit)
@@ -93,6 +92,12 @@ All templates and explanations in this repository are for **educational and info
 ## Contributing
 
 We welcome your suggestions and contributions to improve this project. To suggest new templates, improve existing ones, or correct errors, please open an "Issue" or submit a "Pull Request".
+
+<!-- aegean:brand-assets:start -->
+## 🎨 Brand Assets
+
+> **AI-Generated Brand Artwork.** The banner and logo are **AI-generated brand assets**. They are illustrative and may not literally depict every feature or the full project scope.
+<!-- aegean:brand-assets:end -->
 
 ## 📜 License
 

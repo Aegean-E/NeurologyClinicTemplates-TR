@@ -12,6 +12,9 @@
   "ui_source": "detected",
   "topics": [
     "aikit",
+    "source-available",
+    "aegean-license",
+    "commercial-license",
     "anamnesis",
     "clinical",
     "documentation",
@@ -21,12 +24,9 @@
     "neurology",
     "templates",
     "turkish",
-    "source-available",
     "aegeanworks",
     "clinical-tools",
-    "education",
     "learning",
-    "software",
     "clinical-documentation",
     "medical-education",
     "template-library",
@@ -56,5 +56,10 @@
   "topics_choice_round4": [
     "turkish",
     "checklist"
+  ],
+  "license_topics": [
+    "source-available",
+    "aegean-license",
+    "commercial-license"
   ]
 }
