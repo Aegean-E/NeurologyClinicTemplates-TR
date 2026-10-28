@@ -12,6 +12,7 @@
   "ui_source": "detected",
   "topics": [
     "aikit",
+    "aikit-integrated",
     "source-available",
     "aegean-license",
     "commercial-license",
@@ -26,7 +27,6 @@
     "turkish",
     "aegeanworks",
     "clinical-tools",
-    "learning",
     "clinical-documentation",
     "medical-education",
     "template-library",
