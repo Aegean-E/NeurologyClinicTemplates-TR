@@ -5,53 +5,48 @@
   "has_ui": false,
   "ui_kind": "library",
   "palette": [
-    "#0e1117",
-    "#1f2937",
-    "#a78bfa",
-    "#f8fafc"
+    "#06121a",
+    "#0b2b3a",
+    "#22d3ee",
+    "#4ade80"
   ],
+  "motif": "book",
+  "layout": "editorial",
   "assets": {
     "logo": {
       "path": "assets/logo.svg",
       "status": "approved",
       "commit": "",
-      "generated_at": "2026-10-28T08:02:14",
+      "generated_at": "2026-10-28T08:46:43",
       "review": {
         "status": "approved",
         "reviewer": "subagent:vision-review",
         "method": "vision",
-        "notes": "NT monogram, dark navy, subtitle fits width, legible.",
-        "score": 93,
-        "reviewed_at": "2026-10-28T08:10:41"
+        "notes": "NT open book, legible",
+        "score": 88,
+        "reviewed_at": "2026-10-28T08:58:20"
       }
     },
     "social_preview": {
       "path": "assets/social-preview.svg",
       "status": "approved",
       "commit": "",
-      "generated_at": "2026-10-28T08:02:14",
+      "generated_at": "2026-10-28T08:46:43",
       "review": {
         "status": "approved",
         "reviewer": "subagent:vision-review",
         "method": "vision",
-        "notes": "NT icon, title, anamnesis templates description, LIBRARY tag.",
-        "score": 93,
-        "reviewed_at": "2026-10-28T08:10:41"
+        "notes": "Consistent template, legible",
+        "score": 88,
+        "reviewed_at": "2026-10-28T08:58:20"
       }
     },
     "social_preview_png": {
       "path": "assets/social-preview.png",
-      "status": "approved",
+      "status": "pending_review",
       "commit": "",
-      "generated_at": "2026-10-28T08:02:15",
-      "review": {
-        "status": "approved",
-        "reviewer": "subagent:vision-review",
-        "method": "structural",
-        "notes": "Rendered from the approved 1280x640 social SVG; exact dimensions verified.",
-        "score": null,
-        "reviewed_at": "2026-10-28T08:16:01"
-      }
+      "generated_at": "2026-10-28T08:46:44",
+      "review": null
     }
   },
   "screenshots": []
