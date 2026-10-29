@@ -1,102 +1,253 @@
 {
   "version": 1,
   "active_task": {
-    "task_id": "expand-anamnesis-literature",
+    "task_id": "reforge-followup",
     "last_phase": "phase 4",
     "active_phase": 5,
     "status": "completed",
-    "updated_at": 1792698158.9641433,
-    "completed_at": 1792698159.1314938
+    "updated_at": 1793292655.7565897,
+    "owner": "opencode:reforge-followup",
+    "started_by": "opencode:reforge-followup",
+    "continuations": [],
+    "completed_at": 1793292656.381072
   },
   "checkpoints": [
     {
-      "task_id": "integrate-aikit",
-      "phase": "phase 2",
-      "phase_num": 2,
-      "description": "[1/2] Attach project to AIKit and align README with PRINCIPLE-005 quick-reference and directory-tree rules",
+      "task_id": "reforge:run-1",
+      "phase": "reforge run",
+      "phase_num": 3,
+      "description": "run started (start=3, step=3, stop=None)",
       "files_affected": [],
       "status": "in_progress",
-      "timestamp": 1792694584.1142652,
-      "timestamp_str": "2026-10-22 21:43:04",
+      "timestamp": 1793291747.5470543,
+      "timestamp_str": "2026-10-29 19:35:47",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 1",
+      "phase_num": 3,
+      "description": "Reforge stage 1: window 3, 3 commit(s), 2 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793291752.9293613,
+      "timestamp_str": "2026-10-29 19:35:52",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 2",
+      "phase_num": 3,
+      "description": "Reforge stage 2: window 6, 3 commit(s), 2 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired, 1 binary not analysed",
+      "files_affected": [
+        "assets/social-preview.png"
+      ],
+      "status": "in_progress",
+      "timestamp": 1793291791.5657814,
+      "timestamp_str": "2026-10-29 19:36:31",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 3",
+      "phase_num": 3,
+      "description": "Reforge stage 3: window 9, 3 commit(s), 2 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired, 5 binary not analysed",
+      "files_affected": [
+        "assets/artwork.jpg",
+        "assets/logo.jpg",
+        "assets/logo.png",
+        "assets/social-preview.jpg",
+        "assets/social-preview.png"
+      ],
+      "status": "in_progress",
+      "timestamp": 1793291813.9735157,
+      "timestamp_str": "2026-10-29 19:36:53",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 4",
+      "phase_num": 3,
+      "description": "Reforge stage 4: window 12, 3 commit(s), 3 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired, 1 binary not analysed",
+      "files_affected": [
+        "assets/social-preview.png"
+      ],
+      "status": "in_progress",
+      "timestamp": 1793291844.9421794,
+      "timestamp_str": "2026-10-29 19:37:24",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 5",
+      "phase_num": 3,
+      "description": "Reforge stage 5: window 15, 3 commit(s), 10 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired, 1 binary not analysed",
+      "files_affected": [
+        "assets/social-preview.png"
+      ],
+      "status": "in_progress",
+      "timestamp": 1793291875.0593848,
+      "timestamp_str": "2026-10-29 19:37:55",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 6",
+      "phase_num": 3,
+      "description": "Reforge stage 6: window 18, 3 commit(s), 3 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793291941.1156406,
+      "timestamp_str": "2026-10-29 19:39:01",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 7",
+      "phase_num": 3,
+      "description": "Reforge stage 7: window 21, 3 commit(s), 21 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793291967.3705814,
+      "timestamp_str": "2026-10-29 19:39:27",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 8",
+      "phase_num": 3,
+      "description": "Reforge stage 8: window 24, 3 commit(s), 5 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292066.0370176,
+      "timestamp_str": "2026-10-29 19:41:06",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 9",
+      "phase_num": 3,
+      "description": "Reforge stage 9: window 27, 3 commit(s), 6 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292105.0321121,
+      "timestamp_str": "2026-10-29 19:41:45",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 10",
+      "phase_num": 3,
+      "description": "Reforge stage 10: window 30, 3 commit(s), 4 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292163.2897403,
+      "timestamp_str": "2026-10-29 19:42:43",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 11",
+      "phase_num": 3,
+      "description": "Reforge stage 11: window 33, 3 commit(s), 3 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292258.0237498,
+      "timestamp_str": "2026-10-29 19:44:18",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 12",
+      "phase_num": 3,
+      "description": "Reforge stage 12: window 36, 3 commit(s), 3 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292292.1600702,
+      "timestamp_str": "2026-10-29 19:44:52",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 13",
+      "phase_num": 3,
+      "description": "Reforge stage 13: window 39, 3 commit(s), 5 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292317.9912837,
+      "timestamp_str": "2026-10-29 19:45:17",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 14",
+      "phase_num": 3,
+      "description": "Reforge stage 14: window 42, 3 commit(s), 3 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292396.285704,
+      "timestamp_str": "2026-10-29 19:46:36",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 15",
+      "phase_num": 3,
+      "description": "Reforge stage 15: window 45, 3 commit(s), 2 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292432.5312214,
+      "timestamp_str": "2026-10-29 19:47:12",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "reforge stage 15",
+      "phase_num": 3,
+      "description": "Reforge stage 15: run stopped at stage 15; resume it with `reforge resume`",
+      "files_affected": [],
+      "status": "suspended",
+      "timestamp": 1793292453.650026,
+      "timestamp_str": "2026-10-29 19:47:33",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge-followup",
+      "phase": "phase 2",
+      "phase_num": 2,
+      "description": "[1/1] Resolve the reforge run-1 findings and restore a passing project check",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292651.41622,
+      "timestamp_str": "2026-10-29 19:50:51",
+      "agent": "opencode:reforge-followup",
       "impact_assessment": {
-        "why": "The user asked to integrate this template library into AIKit so agents can cold-start, verify and deliver it under the principles",
-        "benefits": "Registered project memory, a cold-start quick reference, an accurate directory tree and a single Phase 4 gate command",
-        "risks": "contract: README gains required sections only; dependency: no runtime or toolchain added; concurrency: none; state: new .aikit/ memory plus ledger",
-        "mitigation": "Keep template content untouched, validate with aikit.py check, and inspect the diff before delivery"
+        "why": "Close the audit findings on the neurology template library before delivery.",
+        "benefits": "Correct clinical wording, reachable license references and a README tree that matches the tracked repository.",
+        "risks": "contract: none; dependency: none; concurrency: none; state: reviewed edits already sit in the working tree",
+        "mitigation": "Run the project tests and all four project gates, stage explicitly, and do not push."
       }
     },
     {
-      "task_id": "integrate-aikit",
+      "task_id": "reforge-followup",
       "phase": "phase 4",
       "phase_num": 4,
-      "description": "[2/2] Integration verified: 4/4 project gates pass (test, hygiene, guidelines, secrets); checklists: passed",
+      "description": "[1/1] Verification: tests pass; aikit check 4/4; checklists: passed",
       "files_affected": [],
       "status": "in_progress",
-      "timestamp": 1792695177.4674528,
-      "timestamp_str": "2026-10-22 21:52:57"
+      "timestamp": 1793292655.7565897,
+      "timestamp_str": "2026-10-29 19:50:55",
+      "agent": "opencode:reforge-followup"
     },
     {
-      "task_id": "integrate-aikit",
+      "task_id": "reforge-followup",
       "phase": "completed",
       "phase_num": 5,
-      "description": "Task 'integrate-aikit' completed successfully.",
+      "description": "Task 'reforge-followup' completed successfully.",
       "status": "completed",
-      "timestamp": 1792695186.687655,
-      "timestamp_str": "2026-10-22 21:53:06"
-    },
-    {
-      "task_id": "integrate-aikit",
-      "phase": "phase 4",
-      "phase_num": 4,
-      "description": "[2/2] Linked existing GitHub origin, fixed README tree for .gitignore; 4/4 gates pass; checklists: passed",
-      "files_affected": [],
-      "status": "in_progress",
-      "timestamp": 1792695553.9431746,
-      "timestamp_str": "2026-10-22 21:59:13"
-    },
-    {
-      "task_id": "integrate-aikit",
-      "phase": "completed",
-      "phase_num": 5,
-      "description": "Task 'integrate-aikit' completed successfully.",
-      "status": "completed",
-      "timestamp": 1792695784.6032655,
-      "timestamp_str": "2026-10-22 22:03:04"
-    },
-    {
-      "task_id": "expand-anamnesis-literature",
-      "phase": "phase 2",
-      "phase_num": 2,
-      "description": "[1/3] Literature gap analysis: 7 of 11 Anamnesis templates lack explanation guides and omit guideline-based red-flag items",
-      "files_affected": [],
-      "status": "in_progress",
-      "timestamp": 1792696761.2948303,
-      "timestamp_str": "2026-10-22 22:19:21",
-      "impact_assessment": {
-        "why": "The user asked to continue expanding the Anamnesis library using the literature",
-        "benefits": "Evidence-based questions and explanations for epilepsy, tremor, RLS, myokymia, MS/optic neuritis, Parkinson disease and syncope",
-        "risks": "contract: template wording and clinical scope; dependency: none added; concurrency: none; state: README catalogue and docs",
-        "mitigation": "Use ILAE, MDS, IRLSSG, McDonald, ESC and AAN sources, preserve the existing Turkish template style, and run the project gates"
-      }
-    },
-    {
-      "task_id": "expand-anamnesis-literature",
-      "phase": "phase 4",
-      "phase_num": 4,
-      "description": "[3/3] Added guideline-based questions and 7 explanation guides; README catalogue updated; 5/5 tests and 4/4 gates pass; checklists: passed",
-      "files_affected": [],
-      "status": "in_progress",
-      "timestamp": 1792698158.9641433,
-      "timestamp_str": "2026-10-22 22:42:38"
-    },
-    {
-      "task_id": "expand-anamnesis-literature",
-      "phase": "completed",
-      "phase_num": 5,
-      "description": "Task 'expand-anamnesis-literature' completed successfully.",
-      "status": "completed",
-      "timestamp": 1792698159.1314952,
-      "timestamp_str": "2026-10-22 22:42:39"
+      "timestamp": 1793292656.3810744,
+      "timestamp_str": "2026-10-29 19:50:56",
+      "agent": "opencode:reforge-followup"
     }
   ]
 }

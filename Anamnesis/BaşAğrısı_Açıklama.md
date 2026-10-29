@@ -38,7 +38,7 @@ Ağrının vücut pozisyonuyla değişip değişmediğini sorgular. Ayağa kalk�
 ### EŞLİK EDEN BELİRTİLER
 
 **AURA (GÖRSEL, DUYUSAL, KONUŞMA BOZUKLUĞU) :**
-Genellikle ağrıdan hemen önce başlayan veya ağrıya eşlik eden, tam geri dönüşümlü nörolojik belirtilerdir. En sık görsel (ışık çakmaları, zig-zag çizgiler, görme kaybı) olmakla beraber, duyusal (uyuşma) veya konuşma bozukluğu şeklinde de olabilir. Varlığı, "Auralı Migren" tanısını koydurur ve tedavi yaklaşımını (özellikle OKS kullanımı gibi konularda) etkiler.
+Genellikle ağrıdan hemen önce başlayan veya ağrıya eşlik eden, tam geri dönüşümlü nörolojik belirtilerdir. En sık görsel (ışık çakmaları, zig-zag çizgiler, görme kaybı) olmakla beraber, duyusal (uyuşma) veya konuşma bozukluğu şeklinde de olabilir. Varlığı auralı migren olasılığını güçlü şekilde destekler; tanı ICHD-3 ölçütleriyle doğrulanmalıdır. Aura varlığı tedavi yaklaşımını (özellikle OKS kullanımı gibi konularda) etkiler.
 
 **TİNNİTUS / TİNNİTUS KARAKTERİ :**
 Kulak çınlaması. Özellikle nabızla senkronize (pulsatil) bir çınlama, kafa içi basınç artışı veya vasküler (damarsal) bir anomali için "kırmızı bayrak" olabilir.

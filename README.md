@@ -36,6 +36,7 @@ NeurologyClinicTemplates-TR/
 ├── REUSE.toml                <- Machine-readable SPDX metadata
 ├── .aikit/                  <- project memory: project, guidelines, decisions, ledger
 ├── tests/                   <- regression tests for template pairing and references
+├── assets/                  <- reviewed brand and social-preview images
 ├── Anamnesis/               <- anamnesis .txt templates and _Açıklama.md explanations
 └── ConsultationNotes/       <- consultation note templates
 ```
