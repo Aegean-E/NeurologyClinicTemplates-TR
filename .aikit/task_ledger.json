@@ -1,39 +1,17 @@
 {
   "version": 1,
   "active_task": {
-    "task_id": "reforge-followup",
-    "last_phase": "phase 4",
+    "task_id": "reforge:run-1",
+    "last_phase": "resumed",
     "active_phase": 5,
     "status": "completed",
-    "updated_at": 1793292655.7565897,
-    "owner": "opencode:reforge-followup",
-    "started_by": "opencode:reforge-followup",
+    "updated_at": 1793292932.3478446,
+    "owner": "opencode",
+    "started_by": "opencode",
     "continuations": [],
-    "completed_at": 1793292656.381072
+    "completed_at": 1793292936.970423
   },
   "checkpoints": [
-    {
-      "task_id": "reforge:run-1",
-      "phase": "reforge run",
-      "phase_num": 3,
-      "description": "run started (start=3, step=3, stop=None)",
-      "files_affected": [],
-      "status": "in_progress",
-      "timestamp": 1793291747.5470543,
-      "timestamp_str": "2026-10-29 19:35:47",
-      "agent": "opencode"
-    },
-    {
-      "task_id": "reforge:run-1",
-      "phase": "reforge stage 1",
-      "phase_num": 3,
-      "description": "Reforge stage 1: window 3, 3 commit(s), 2 file(s) reviewed (unreviewed), 0 finding(s), 0 repaired",
-      "files_affected": [],
-      "status": "in_progress",
-      "timestamp": 1793291752.9293613,
-      "timestamp_str": "2026-10-29 19:35:52",
-      "agent": "opencode"
-    },
     {
       "task_id": "reforge:run-1",
       "phase": "reforge stage 2",
@@ -248,6 +226,27 @@
       "timestamp": 1793292656.3810744,
       "timestamp_str": "2026-10-29 19:50:56",
       "agent": "opencode:reforge-followup"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "resumed",
+      "phase_num": 3,
+      "description": "Resumed 'reforge:run-1' after a pause",
+      "files_affected": [],
+      "status": "in_progress",
+      "timestamp": 1793292932.3478446,
+      "timestamp_str": "2026-10-29 19:55:32",
+      "agent": "opencode"
+    },
+    {
+      "task_id": "reforge:run-1",
+      "phase": "completed",
+      "phase_num": 5,
+      "description": "Task 'reforge:run-1' completed successfully.",
+      "status": "completed",
+      "timestamp": 1793292936.9704266,
+      "timestamp_str": "2026-10-29 19:55:36",
+      "agent": "opencode"
     }
   ]
 }
